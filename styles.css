@@ -1,0 +1,14 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+   
+@layer base{
+	@font-face {
+  font-family: Avenir Next;
+  src: local('Avenir Next'), url(AvenirNextLTPro-Regular.ttf) format('ttf');
+}
+}
